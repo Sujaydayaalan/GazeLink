@@ -26,8 +26,7 @@ everyone.
 * **Math/Logic:** NumPy \& Deque (Collections)
 
 
-
-  **Gesture**	          
+**Gesture**	          
   **1. Eye Movement:** Moves the Cursor (with smoothing)
 
   **2. Double Blink:** Double Click (freezes cursor for precision)
@@ -49,6 +48,7 @@ everyone.
 
 **3. Run the System:**
    python main.py
+
 
 
 
