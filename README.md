@@ -27,11 +27,11 @@ everyone.
 
 
 
-  **Gesture**	          **Action**
-* Eye Movement 	Moves the Cursor (with smoothing)
-* Double Blink	        Double Click (freezes cursor for precision)
-* Mouth Open 	        Opens Google Voice Assistant
-* Head Tilt           	Scrolls the page
+  **Gesture**	          
+  **1. Eye Movement:** Moves the Cursor (with smoothing)
+  **2. Double Blink:** Double Click (freezes cursor for precision)
+  **3. Mouth Open:** 	 Opens Google Voice Assistant
+**4.  Head Tilt:**    Scrolls the page
 
 
 
@@ -44,5 +44,6 @@ everyone.
    pip install opencv-python mediapipe pyautogui numpy
 **3. Run the System:**
    python main.py
+
 
 
