@@ -34,7 +34,7 @@ everyone.
 
   **3. Mouth Open:** 	 Opens Google Voice Assistant
 
-**4.  Head Tilt:**    Scrolls the page
+  **4.  Head Tilt:**    Scrolls the page
 
 
 
@@ -43,10 +43,13 @@ everyone.
 **Installation**
 
 **1. Clone the Repository**
+
 **2. Install Dependencies:**
    pip install opencv-python mediapipe pyautogui numpy
+
 **3. Run the System:**
    python main.py
+
 
 
 
